@@ -1,11 +1,12 @@
 # Raspi_Sysinfo_oled_display
 Display your raspi's sysinfo on little LLC oled monitor
 
+![](https://github.com/EricHerilan/Raspi_Sysinfo_oled_display/raw/master/img/IMG_20180311_214125.jpg)
 
 First of all
 ----
 
-we need `Luma` to drive our devise, To get them from here[luma.oled](https://github.com/rm-hull/luma.oled) <br>
+we need `Luma` to drive our devise, To get them from here [luma.oled](https://github.com/rm-hull/luma.oled) <br>
 or <br>
 
     $ sudo apt-get install python-dev python-pip libfreetype6-dev libjpeg-dev
@@ -48,7 +49,7 @@ End
     $ sudo -H pip install --upgrade pip 
     $ sudo apt-get purge python-pip 
     $ sudo -H pip install --upgrade luma.oled
-    
+
 设置开机启动
 ------
 
