@@ -14,7 +14,7 @@ or <br>
     $ sudo apt-get purge python-pip 
     $ sudo -H pip install --upgrade luma.oled
 
-Run as boots
+Run at boots
 ----
 
 Add a `.service` file in /etc/systemd/system/ like `oled.service` <br>
